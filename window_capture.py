@@ -1,7 +1,6 @@
 #スクリーンショットを動画にする
 import numpy as np
 import cv2
-import pyautogui as pag
 import os
 import time
 
